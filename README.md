@@ -1,5 +1,5 @@
 #  WeatherWiz
-** WeatherWiz is a web application designed using HTML, CSS, and JavaScript. It leverages the OpenWeather API to fetch real-time weather data and provides users with accurate and up-to-date weather information.**
+**WeatherWiz is a web application designed using HTML, CSS, and JavaScript. It leverages the OpenWeather API to fetch real-time weather data and provides users with accurate and up-to-date weather information.**
 **It displays details such as current temperature, humidity, wind speed, and weather conditions, along with a visual representation of the weather, such as icons or images.**
 ## 🖥 Tech Stack
 *Frontend:*
